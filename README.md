@@ -7,7 +7,7 @@ Freely - Connecting top talent with quality clients ❤ Freely - A platform for 
 <br/>
 
 <h1 align="center">
-✨ An Open Source platform for Freelancers ✨ <br/>
+✨ An Open Source platform for Freelancers  ✨ <br/>
 </h1>
 <h3 align="center">
 With Freely we help students, Freelancers, and Proffesionals to get their clients. <br/>
